@@ -1,2 +1,3 @@
-# DIO-desafio-github
-Desafio de projeto no Git/GitHub
+# Estudos de Git & GitHub
+
+Repositório para organização de materiais para estudo!
